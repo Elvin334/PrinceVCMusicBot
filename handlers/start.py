@@ -17,7 +17,7 @@ async def start_(client: Client, message: Message):
 ⚜️ I am PRINCE_MUSIC_BOT VC Music Player, an open-source bot that lets you play music in your Telegram groups.
 Maintained by @mdoffx
 
-⚜️ For source code Join our support group @PRINCE_MUSIC_CHATS.
+⚜️ For source code Join our support group @mdoffx
 
 ⚜️ Use the buttons below to know more about me.
  </b>""",
@@ -35,7 +35,7 @@ Maintained by @mdoffx
                         "💬 Group", url="https://t.me/PRINCEBOTSUPPORT"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/princebots"
+                        "🔊 Channel", url="https://t.me/mdoffx"
                     ),
                     InlineKeyboardButton(
                         "😍 Credit", url="https://t.me/prince_3011"
